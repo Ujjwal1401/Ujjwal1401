@@ -9,9 +9,7 @@
 
 ### 🔥 About Me
 
-- 🎓 B.Tech in Computer Science @ Centurion University | CGPA: 9.3  
-- ☁️ Cloud Intern @ Placify Technologies  
-- 🤖 Former AI Intern @ Corizo | Web Dev Intern @ InternPe  
+
 - 💼 Passionate about Cloud, AI, and Full Stack Development  
 - 🏆 **Promising Student 2023 | Tech Fest Coordinator 2024**  
 - 🧠 Always learning, growing, and building something cool!
@@ -38,22 +36,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-- 🔐 **AI-Driven Adaptive DDoS Defense System**  
-  ML-powered security using AWS (EC2, WAF, CloudWatch, Shield)
-
-- 🚖 **Ride-Sharing App (AWS Wild Rydes Inspired)**  
-  Built using Amplify, Cognito, API Gateway, Lambda & DynamoDB
-
-- 📅 **Cloud Task Manager**  
-  MERN + MongoDB Atlas + Auth + Clean UI
-
-- 💉 **Blood Donation Website**  
-  PHP, JS & MySQL based donor-recipient platform
 
 ---
 
